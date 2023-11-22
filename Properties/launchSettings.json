@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ParallelFileSearcher": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\moose\\Pictures\\Screenshots\\\" \".png\"",
+      "workingDirectory": "D:\\Code Projects\\ParallelFileSearcher\\bin\\Debug\\net6.0"
+    }
+  }
+}
